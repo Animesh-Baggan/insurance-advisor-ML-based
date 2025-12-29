@@ -19,7 +19,7 @@ from logic.recommend_accident_plan import recommend_accident_plan
 # =====================================================
 # CONFIG
 # =====================================================
-API_URL = "https://insurance-advisor-ml-based.onrender.com"
+API_URL = "https://insurance-fastapi.onrender.com/predict"
 
 st.set_page_config(
     page_title="Smart Insurance Advisor",

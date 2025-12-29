@@ -19,7 +19,7 @@ from logic.recommend_accident_plan import recommend_accident_plan
 # =====================================================
 # CONFIG
 # =====================================================
-API_URL = "http://127.0.0.1:8001/predict"
+API_URL = "https://insurance-advisor-ml-based.onrender.com"
 
 st.set_page_config(
     page_title="Smart Insurance Advisor",

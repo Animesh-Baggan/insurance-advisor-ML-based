@@ -1,0 +1,6 @@
+company,plan_name,trip_type,max_trip_days,coverage_amount,base_cost
+ICICI Lombard General Insurance Co. Ltd.,Overseas Travel Protect,international,30,5000000,2500
+HDFC ERGO General Insurance Co. Ltd.^^,Travel Secure International,international,30,4000000,2200
+Bajaj Allianz General Insurance Co. Ltd.,Travel Companion,international,30,3000000,2000
+Tata AIG General Insurance Co. Ltd.,Domestic Travel Guard,domestic,15,1000000,500
+ICICI Lombard General Insurance Co. Ltd.,Domestic Travel Shield,domestic,15,1500000,600

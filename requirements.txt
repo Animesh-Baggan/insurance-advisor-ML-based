@@ -1,9 +1,12 @@
-fastapi
-uvicorn[standard]
+streamlit>=1.32.0
+altair>=5.0.0
+
 pandas
 numpy
 scikit-learn
-requests
-streamlit==1.19.0
-altair==4.2.2
+scipy
+joblib
 
+fastapi
+uvicorn
+python-dotenv
